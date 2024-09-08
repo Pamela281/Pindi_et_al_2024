@@ -1,4 +1,4 @@
-# Pindi_et_al_2024
+# Predicting negative emotions perception and regulation with fMRI: an MVPA study
 
 ## Reference
 Pindi, P., Thirion, B., Houenou, J. & Favre, P. Predicting negative emotions perception and regulation with fMRI: an MVPA study (in revision)
