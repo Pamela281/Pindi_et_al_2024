@@ -1,7 +1,7 @@
 # Predicting negative emotions perception and regulation with fMRI: an MVPA study
 
 ## Reference
-Pindi, P., Thirion, B., Houenou, J. & Favre, P. Predicting negative emotions perception and regulation with fMRI: an MVPA study (in revision)
+Pindi, P., Thirion, B., Houenou, J. & Favre, P. Predicting negative emotions perception and regulation with fMRI: an MVPA study (submitted)
 
 ## Data
 Data are available upon request to the corresponding author (pauline@favre-univ.fr)
@@ -14,4 +14,4 @@ Data are available upon request to the corresponding author (pauline@favre-univ.
 * [AAL3 atlas](https://www.gin.cnrs.fr/fr/outils/aal/)
 
 ## Bug and questions
-Please contact Pauline Favre at pauline@favre-univ.fr for any questions
+Please contact Pauline Favre and Pamela Pindi at pauline@favre-univ.fr and pamela.pindi@gmail.com for any questions
