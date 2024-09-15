@@ -5,9 +5,9 @@ Pindi, P., Thirion, B., Houenou, J. & Favre, P. Predicting negative emotions per
 
 ## Data
 Data are available on OpenNeuro:
-* [Wager et al., 2008 - ds000108](https://openneuro.org/datasets/ds000108/versions/00002)
-* [Nashiro et al., 2021 - ds003823](https://openneuro.org/datasets/ds003823/versions/1.3.3)
-* [David et al., 2021 - ds003548](https://openneuro.org/datasets/ds003548/versions/1.0.1)
+* Wager et al., 2008 - [ds000108](https://openneuro.org/datasets/ds000108/versions/00002)
+* Nashiro et al., 2021 - [ds003823](https://openneuro.org/datasets/ds003823/versions/1.3.3)
+* David et al., 2021 - [ds003548](https://openneuro.org/datasets/ds003548/versions/1.0.1)
 
 ## Code
 * ds000108 contains all the scripts to perform univariate and decoding analysis for both emotion perception and regulation with Wager et al., 2008 data
