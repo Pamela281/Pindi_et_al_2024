@@ -56,7 +56,7 @@ def decodeur(contrast_imgs, conditions_label, groups, mask_name, cv):
         estimator='svc',
         mask=mask_name,
         cv=cv,
-        param_grid = [{'C': [1, 10, 100, 1000]]
+        param_grid = [{'C': [1, 10, 100, 1000]],
         clustering_percentile=10,
         screening_percentile=20,
         scoring='roc_auc',
